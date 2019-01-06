@@ -1,2 +1,2 @@
 # qinguang.github.io
-notes of Technology study
+Notes of Technology study
